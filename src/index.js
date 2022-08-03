@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import { MoralisProvider } from 'react-moralis';
 const root = ReactDOM.createRoot(document.getElementById('root'));
-const appId = 'MV6c5MY0yRGHDQoYlIRl0mmhGkYr7ptrAIWJnPzS';
-const serverUrl = "https://rmmhonckjcjq.usemoralis.com:2053/server";
+const appId = 'Paste in your moralis dApp appID';
+const serverUrl = "Paste in your moralis dApp serverURL";
 
 root.render(
   <React.StrictMode>
